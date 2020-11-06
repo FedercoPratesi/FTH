@@ -1,3 +1,3 @@
 # FTH
 
-Frase scritta da Hasib
+Hasib ha risolto il conflitto
